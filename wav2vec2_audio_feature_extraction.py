@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Required librarie:
 from utils import *
 
 class Wav2Vec2_EXP_Config:
