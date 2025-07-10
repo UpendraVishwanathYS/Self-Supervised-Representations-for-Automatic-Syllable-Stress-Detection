@@ -1,5 +1,8 @@
 # Self-Supervised-Representations-for-Automatic-Syllable-Stress-Detection
 Uncovering Lexical Stress Patterns: A Layered Analysis of Self-Supervised Representations for Automatic Syllable Stress Detection
+![block_diag2](https://github.com/user-attachments/assets/4e548464-2d69-42be-81a2-95748e7f08d5)
+
+
 
 # Installing Dependencies
 To install dependencies, create a conda or virtual environment with Python 3 and then run ```pip install -r requirements.txt```
